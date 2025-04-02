@@ -8,10 +8,12 @@
 * CSS
 * JS
 
+ 
 
 
+ 
 
-![word.jpg](Word.jpg)
+![alt text](Word.jpg)
 
 
 

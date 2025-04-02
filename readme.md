@@ -11,7 +11,7 @@
 
 
 
-![alt text](Word.jpg)
+![word.jpg](Word.jpg)
 
 
 

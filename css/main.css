@@ -51,11 +51,11 @@ nav ul li a:hover {
 .hero-image img {
     width: 250px;
     height: auto;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .hero-text {
-    margin-left: 2rem;
+    margin-left: 10rem;
 }
 
 .hero-text h2 {
@@ -87,28 +87,37 @@ nav ul li a:hover {
 }
 
 
-.skills {
-    text-align: center;
-    padding: 3rem 0;
-}
-
 .skill-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-    gap: 2rem;
-    max-width: 800px;
-    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
 }
 
-.skill-grid img {
+#collection {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+#collection li {
     width: 100px;
+}
+
+#collection img {
+    width: 100%;
     height: auto;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+#collection img:hover {
+    transform: scale(1.1);
 }
 
 
 footer {
     text-align: center;
-    padding: 2rem;
+    padding: 8rem;
     background-color: #222;
 }
 

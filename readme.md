@@ -1,4 +1,4 @@
-# Portefolio by Ranelle 🙊​🙉​🙈​
+#     PORTEFOLIO BY RANELLE 👩‍💻​♨️​
 
 ## Languages utilisés
 

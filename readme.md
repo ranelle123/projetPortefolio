@@ -1,6 +1,10 @@
-#     PORTEFOLIO BY RANELLE 👩‍💻​♨️​
+#              PORTEFOLIO BY RANELLE 👩‍💻​♨️​
 
-## ​​Languages utilisés 
+
+
+
+
+## ​⚒️​​​Languages utilisés 
 
 
 
@@ -10,7 +14,17 @@
 
 
 
+
+
+
+
+
+
 ## ​​☎️​​ Contact
+
+
+
+
 
 * 💬​ Mail : mampouyaranelle@icloud.com
 

@@ -1,12 +1,22 @@
 #     PORTEFOLIO BY RANELLE 👩‍💻​♨️​
 
-## Languages utilisés
+## ​​Languages utilisés 
 
 
 
-* HTML
-* CSS
-* JS
+* 🚀​HTML
+* 💢​ CSS
+* ♨️​ JS
+
+
+
+## ​​☎️​​ Contact
+
+* 💬​ Mail : mampouyaranelle@icloud.com
+
+* 💬​ likdlin : https://www.linkedin.com/in/ranelle-mampouya-819a5225b/
+
+
 
  
 
